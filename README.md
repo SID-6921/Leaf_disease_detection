@@ -37,6 +37,8 @@ This project demonstrates the complete workflow for training a **convolutional n
 ### Dataset
 The dataset is a combination of multiple publicly available datasets from Kaggle, called **Leaf Disease Detection Dataset**. The dataset consists of images of healthy and diseased leaves, organized into training, validation, and test sets to ensure rigorous model evaluation.
 
+**https://www.kaggle.com/datasets/fakhrealam9537/leaf-disease-segmentation-dataset**
+
 
 ### Model
 The model is built on **DenseNet201**, trained using **TensorFlow/Keras**. The trained model is available on Kaggle for download.
